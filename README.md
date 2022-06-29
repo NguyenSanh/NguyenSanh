@@ -2,7 +2,7 @@
 
 
 - 🏫 I am currently pursuing my Bachelor's Degree in Computer Science at the University of California, San Diego (UC San Diego).
-- 🔭 I’m currently working web and app development.
+- 🔭 I’m currently working on web and app development.
 - 🌱 I’m currently learning ReactJS through JavaScript!
 - 👯 I’m looking to collaborate on video game development projects in Unity.
 - 🤔 I’m looking for help with finding software development internships!
