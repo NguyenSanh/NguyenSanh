@@ -8,3 +8,4 @@
 - 📫 You can contact me through my personal or school emails: jonathan.s.nguyen18@gmail.com / jsn006@ucsd.edu
 - 🏫 I am pursuing a Bachelor's Degree in Computer Science at the University of California, San Diego (UC San Diego).
 - ⚡ Fun fact: I can speak four different languages! Can you guess which ones? One is fairly obvious!
+- Website Portfolio link: https://nguyensanh.github.io/MyPortfolio/
