@@ -1,7 +1,7 @@
 ### Hi there Sanh here! Welcome to my GitHub portfolio👋
 
 - 🔭 I’m currently working on a my website portfolio with HTML, CSS and JavaScript.
-- 🌱 I’m currently learning Angular for front-end development and C# for game development.
+- 🌱 I’m currently learning Unity and C# for video-game development and the Java Database Connectivity (JDBC) API for a group project.
 - 👯 I’m looking to collaborate on video game development projects in Unity.
 - 🤔 I’m looking for help with finding software development internships!
 - 💬 Ask me about my favorite programming language! (Hint hint: It's definitely not Python.)
